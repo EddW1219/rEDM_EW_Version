@@ -1,2 +1,4 @@
 # rEDM_EW_Version
-Functions from https://github.com/SugiharaLab/rEDM.git
+Functions inherited from https://github.com/SugiharaLab/rEDM.git
+
+
